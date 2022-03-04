@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1623481360 source:f:\programowwaniee w cpluzpluz\cwiczeniawcpluspluszadania\zadanie011\plates\main.cpp
+	<iostream>
+	"Stack_of_plates.hpp"
+
+1623081443 f:\programowwaniee w cpluzpluz\cwiczeniawcpluspluszadania\zadanie011\plates\plates.hpp
+	<iostream>
+	<time.h>
+
+1623081204 f:\programowwaniee w cpluzpluz\cwiczeniawcpluspluszadania\zadanie011\plates\stack.hpp
+	<iostream>
+
+1623393217 f:\programowwaniee w cpluzpluz\cwiczeniawcpluspluszadania\zadanie011\plates\stack_of_plates.hpp
+	<iostream>
+	"stack.hpp"
+	"plates.hpp"
+
+1623477760 source:f:\programowwaniewcpluzpluz\cwiczeniawcpluspluszadania\zadanie011\plates\main.cpp
+	<iostream>
+	"Stack_of_plates.hpp"
+
+1623389617 f:\programowwaniewcpluzpluz\cwiczeniawcpluspluszadania\zadanie011\plates\stack_of_plates.hpp
+	<iostream>
+	"stack.hpp"
+	"plates.hpp"
+
+1623077604 f:\programowwaniewcpluzpluz\cwiczeniawcpluspluszadania\zadanie011\plates\stack.hpp
+	<iostream>
+
+1623077843 f:\programowwaniewcpluzpluz\cwiczeniawcpluspluszadania\zadanie011\plates\plates.hpp
+	<iostream>
+	<time.h>
+
